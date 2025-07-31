@@ -55,3 +55,11 @@ Generative Dream Weaver adalah sebuah program inovatif yang dirancang untuk mena
 *   **Untuk Kisah Pengguna 4 (Tampilan Hasil):**
     *   Narasi mimpi tekstual yang dihasilkan ditampilkan di antarmuka pengguna.
     *   Teks dapat dibaca dan diformat agar mudah dibaca.
+
+## 6. Rencana Masa Depan
+
+*   **Rekonstruksi Visual Mimpi:** Mengembangkan kemampuan untuk menghasilkan representasi visual mimpi menggunakan model generatif (GANs/Diffusion) berdasarkan data gelombang otak.
+*   **Peningkatan Narasi:** Meningkatkan kualitas dan kedalaman narasi teks yang dihasilkan, termasuk potensi untuk menangkap nuansa emosional atau alur cerita yang lebih kompleks.
+*   **Integrasi Perangkat Neuro:** Memperluas dukungan untuk berbagai jenis antarmuka neuro dan perangkat EEG.
+*   **Analisis Pola Tidur:** Menyediakan wawasan tentang pola tidur pengguna dan korelasi antara aktivitas gelombang otak dan konten mimpi.
+*   **Antarmuka Pengguna yang Ditingkatkan:** Merancang antarmuka yang lebih intuitif untuk pengelolaan data, visualisasi mimpi, dan personalisasi pengaturan.
